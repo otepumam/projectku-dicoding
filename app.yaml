@@ -1,0 +1,6 @@
+
+handlers:
+- url: /assets
+  static_dir: assets
+- url: /.*
+  script: auto
